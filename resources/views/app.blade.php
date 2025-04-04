@@ -40,6 +40,6 @@
         @inertiaHead
     </head>
     <body class="font-sans antialiased">
-        @inertia
+        @inertia<div> Привет</div>
     </body>
 </html>
